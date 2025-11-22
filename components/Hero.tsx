@@ -15,7 +15,7 @@ export const Hero: React.FC = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img 
-          src="https://images.unsplash.com/photo-1610189012906-44093a083f53?auto=format&fit=crop&q=80&w=2000"
+          src="https://i.pinimg.com/736x/bb/59/46/bb594638b7e21589376e2cba4f9a01eb.jpg"
           alt="Saree Model" 
           className="w-full h-full object-cover object-top opacity-90"
         />
